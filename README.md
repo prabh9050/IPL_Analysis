@@ -18,6 +18,10 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | SQL | SQLite | Power BI
 - `visuals/` - Charts and visualizations
 - `dashboard/` - Power BI dashboard (.pbix) and PDF export
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard/IPL_Analysis_Dashboard.png)
+
 ## 📂 Data Source
 Dataset: IPL Complete Dataset (2008-2024)
 Source: [Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
